@@ -1,0 +1,17 @@
+{
+  "middleware/auth.js": {
+    "mtime": 1785076974.2053487,
+    "ast_hash": "c4396c03abf48fab882e27c9717160a6",
+    "semantic_hash": "c4396c03abf48fab882e27c9717160a6"
+  },
+  "package.json": {
+    "mtime": 1785080910.8492334,
+    "ast_hash": "94576a0a1f36dbdc3c56722d3aa2cdf4",
+    "semantic_hash": "94576a0a1f36dbdc3c56722d3aa2cdf4"
+  },
+  "server.js": {
+    "mtime": 1785077024.5619116,
+    "ast_hash": "3cbf5f8b965517a1edc142ab0f2396a2",
+    "semantic_hash": "3cbf5f8b965517a1edc142ab0f2396a2"
+  }
+}
